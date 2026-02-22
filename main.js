@@ -42,7 +42,6 @@
 
   form.addEventListener('submit', (e) => {
     e.preventDefault();
-    alert('送信しました')
   })
 
   const open = document.getElementById('open');
